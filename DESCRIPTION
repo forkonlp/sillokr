@@ -16,4 +16,10 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Suggests: 
-    testthat
+    testthat,
+    covr
+URL: https://github.com/forkonlp/sillokr
+BugReports: https://github.com/forkonlp/sillokr/issues
+Imports: 
+    lifecycle
+RdMacros: lifecycle
