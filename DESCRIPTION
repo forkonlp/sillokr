@@ -1,12 +1,15 @@
 Package: sillokr
-Title: What the Package Does (One Line, Title Case)
+Title: Provide Sillok Text Data
 Version: 0.0.0.9000
 Authors@R: person(given = "Chanyub",
              family = "Park",
              role = c("aut","cre"),
              email = "mrchypark@gmail.com",
              comment = c(ORCID = "0000-0001-6474-2570"))
-Description: What the package does (one paragraph).
+Description: The Joseon wangjo sillok (Veritable Records of the Joseon Dynasty) 
+              includes 28 different sets of chronological records, and 
+              each set covers one ruler's reign. sillokr provides wrapper functions
+              of get sillok text data from sillok site <sillok.history.go.kr>.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
